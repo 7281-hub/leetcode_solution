@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/7281-hub/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/7281-hub/leetcode_solution/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/7281-hub/leetcode_solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
