@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/7281-hub/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/7281-hub/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/7281-hub/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/7281-hub/leetcode_solution/tree/master/0344-reverse-string) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## String
 |  |
 | ------- |
