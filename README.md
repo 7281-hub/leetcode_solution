@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/7281-hub/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0011-container-with-most-water](https://github.com/7281-hub/leetcode_solution/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0125-valid-palindrome](https://github.com/7281-hub/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/7281-hub/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0011-container-with-most-water](https://github.com/7281-hub/leetcode_solution/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/7281-hub/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/7281-hub/leetcode_solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
