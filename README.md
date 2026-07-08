@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/7281-hub/leetcode_solution/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/7281-hub/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/7281-hub/leetcode_solution/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
