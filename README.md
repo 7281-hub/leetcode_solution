@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/7281-hub/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/7281-hub/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
