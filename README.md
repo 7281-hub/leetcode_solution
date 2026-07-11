@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 | [0088-merge-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/7281-hub/leetcode_solution/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/7281-hub/leetcode_solution/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
