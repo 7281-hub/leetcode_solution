@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/7281-hub/leetcode_solution/tree/master/0136-single-number) |
 | [0053-maximum-subarray](https://github.com/7281-hub/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/7281-hub/leetcode_solution/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/7281-hub/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
+| [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
