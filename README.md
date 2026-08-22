@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/7281-hub/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/7281-hub/leetcode_solution/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/7281-hub/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/7281-hub/leetcode_solution/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/7281-hub/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -98,8 +101,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/7281-hub/leetcode_solution/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/7281-hub/leetcode_solution/tree/master/0050-powx-n) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
