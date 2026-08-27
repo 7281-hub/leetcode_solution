@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/7281-hub/leetcode_solution/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0001-two-sum](https://github.com/7281-hub/leetcode_solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/7281-hub/leetcode_solution/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/7281-hub/leetcode_solution/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0015-3sum](https://github.com/7281-hub/leetcode_solution/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/7281-hub/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0075-sort-colors](https://github.com/7281-hub/leetcode_solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/7281-hub/leetcode_solution/tree/master/0242-valid-anagram) |
+| [0015-3sum](https://github.com/7281-hub/leetcode_solution/tree/master/0015-3sum) |
 ## Counting
 |  |
 | ------- |
