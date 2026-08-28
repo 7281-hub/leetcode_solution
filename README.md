@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/7281-hub/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/7281-hub/leetcode_solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/7281-hub/leetcode_solution/tree/master/0031-next-permutation) |
+| [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/7281-hub/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0015-3sum](https://github.com/7281-hub/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/7281-hub/leetcode_solution/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/7281-hub/leetcode_solution/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
