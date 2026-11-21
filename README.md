@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/7281-hub/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 | [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/7281-hub/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/7281-hub/leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
