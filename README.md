@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/7281-hub/leetcode_solution/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/7281-hub/leetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/7281-hub/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0001-two-sum](https://github.com/7281-hub/leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7281-hub/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 | [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
