@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7281-hub/leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/7281-hub/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/7281-hub/leetcode_solution/tree/master/2965-find-missing-and-repeated-values) |
 | [0050-powx-n](https://github.com/7281-hub/leetcode_solution/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7281-hub/leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/7281-hub/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/7281-hub/leetcode_solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/7281-hub/leetcode_solution/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/7281-hub/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
