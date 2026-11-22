@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/7281-hub/leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
+| [0152-maximum-product-subarray](https://github.com/7281-hub/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/7281-hub/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0053-maximum-subarray](https://github.com/7281-hub/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/7281-hub/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
