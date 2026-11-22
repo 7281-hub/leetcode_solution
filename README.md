@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7281-hub/leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/7281-hub/leetcode_solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/7281-hub/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/7281-hub/leetcode_solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/7281-hub/leetcode_solution/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/7281-hub/leetcode_solution/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
