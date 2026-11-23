@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/7281-hub/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/7281-hub/leetcode_solution/tree/master/0268-missing-number) |
 | [0152-maximum-product-subarray](https://github.com/7281-hub/leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0867-transpose-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/7281-hub/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/7281-hub/leetcode_solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
