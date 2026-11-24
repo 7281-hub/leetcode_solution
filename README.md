@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [0128-longest-consecutive-sequence](https://github.com/7281-hub/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/7281-hub/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/7281-hub/leetcode_solution/tree/master/1732-find-the-highest-altitude) |
 | [0238-product-of-array-except-self](https://github.com/7281-hub/leetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/7281-hub/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [0128-longest-consecutive-sequence](https://github.com/7281-hub/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/7281-hub/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
