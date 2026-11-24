@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/7281-hub/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/7281-hub/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/7281-hub/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/7281-hub/leetcode_solution/tree/master/2215-find-the-difference-of-two-arrays) |
+| [0128-longest-consecutive-sequence](https://github.com/7281-hub/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/7281-hub/leetcode_solution/tree/master/0387-first-unique-character-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/7281-hub/leetcode_solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
